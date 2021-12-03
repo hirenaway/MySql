@@ -1,0 +1,16 @@
+/*------------CHANGING COLUMN'S DATA TYPE'S PROPERTY USING ALTER KEYWORD -------------*/
+
+ALTER TABLE
+  employee
+MODIFY
+  COLUMN first_name VARCHAR(100) NOT NULL;
+
+
+
+
+
+
+
+
+
+
