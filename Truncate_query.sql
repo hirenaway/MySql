@@ -1,0 +1,7 @@
+/*---------  TRUNCATE TO DELETE DATA FROM THE TABLE BUT NOT THE TABLE ITSELF --------*/
+
+TRUNCATE TABLE employee_salary;
+
+/*-----------  DROP CLAUSE IS USED TO DELETE THE DATA AND TABLE AS WELL ALTOGETHER ----------*/
+
+DROP TABLE employee_salary;
